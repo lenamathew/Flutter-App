@@ -1,0 +1,19 @@
+name: flutter_menu_toast
+description: A simple Flutter app with two menu items that show toasts.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  fluttertoast: ^8.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

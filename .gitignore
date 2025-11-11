@@ -1,0 +1,16 @@
+/build/
+.dart_tool/
+.packages
+.pub/
+.idea/
+.vscode/
+*.iml
+# Android/IntelliJ
+/local.properties
+**/GeneratedPluginRegistrant.java
+**/GeneratedPluginRegistrant.h
+**/generated_plugin_registrant.dart
+
+# macOS
+**/Pods/
+**/Podfile.lock
